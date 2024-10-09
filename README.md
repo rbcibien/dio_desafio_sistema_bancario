@@ -21,3 +21,11 @@ Os valores devem ser exibidos utilizando o formato `R$ xxx.xx`, exemplo:
 
 ## Desafio 02
 Precisamos deixar nosso código mais modularizado, para isso vamos criar funções para as operações já existentes: **sacar**, **depositar** e **visualizar histórico**. Além disso, para a versão 2 do nosso sistema precisamos criar duas novas funções: **criar usuário** (cliente do banco) e **criar conta corrente** (vincular com usuário).
+
+## Desafio POO parte 01
+### Objtivo Geral
+Iniciar a modelagem do sistema bancário em POO. Adicionar classes para **cliente** e as operações bancárias: **depósito** e **saque**.
+
+### Desafio
+Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML a seguir:
+![Modelo de classes UML](Imagens/image.png)
